@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="hud_title">J.A.R.V.I.S. MARK VII</string>
+    <string name="hud_subtitle">JUST A RATHER VERY INTELLIGENT SYSTEM</string>
+    <string name="status_idle">STANDBY — READY FOR VOICE COMMAND</string>
+    <string name="status_listening">LISTENING — VOICE ACTIVITY DETECTED</string>
+    <string name="status_thinking">PROCESSING — NEURAL MATRIX ENGAGED</string>
+    <string name="status_speaking">VOCALIZING — AUDIO STREAM ACTIVE</string>
+    <string name="mic_activate">Engage Voice Command</string>
+    <string name="mic_stop">Interrupt / Stop Audio</string>
+    <string name="nav_hud">HUD</string>
+    <string name="nav_systems">SYSTEMS</string>
+    <string name="nav_ops">DAILY OPS</string>
+    <string name="nav_vision">VISION &amp; DOCS</string>
+    <string name="nav_config">CONFIG</string>
+    <string name="security_warning_prototype">Security Warning: API keys included in prototype APK builds via BuildConfig can be extracted if the APK is decompiled. Do not share this APK publicly; use a secure backend or Firebase AI with App Check for production.</string>
+</resources>

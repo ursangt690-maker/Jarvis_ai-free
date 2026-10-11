@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI",
+  "description": "A powerful, voice-first futuristic JARVIS AI Android assistant powered by Gemini AI with system HUD, phone controls, productivity tools, and vision AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
